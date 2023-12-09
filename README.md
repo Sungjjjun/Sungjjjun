@@ -1,6 +1,6 @@
 ## Hi there 👋 <br>
 
-I'm 🌱 studying hard to become a Flutter Developer! <br>
+I'm 🌱 studying hard to become a Flutter Developer or iOS Developer! <br>
 
 I love playing baseball ⚾ and watching soccer ⚽ & baseball ⚾<br>
 
